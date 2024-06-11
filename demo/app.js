@@ -1,3 +1,5 @@
+LANGCHAIN_KEY = "dasdadhagdhasghdgashdg sahdashgdhasgdhgasgdasghd"
+
 angular.module('angular-validator-demo', ['angularValidator', 'ngMessages']);
 
 
